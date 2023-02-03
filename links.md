@@ -1,6 +1,7 @@
 ---
 title: Links
 layout: home
+has_children: true
 ---
 
 Some links
