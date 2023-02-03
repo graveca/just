@@ -6,4 +6,4 @@ parent: Links
 
 Some buttons
 
-[Read the news](http://news.bbc.com/){: .btn }
+[Read the news](https://www.bbc.co.uk/news){: .btn }
