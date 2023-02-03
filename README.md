@@ -1,3 +1,10 @@
+# just readme
+
+* created from template at https://just-the-docs.github.io/just-the-docs/
+* standard config updates per below
+* updated config https://just-the-docs.github.io/just-the-docs/docs/configuration/
+
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
