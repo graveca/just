@@ -3,6 +3,9 @@
 * created from template at https://just-the-docs.github.io/just-the-docs/
 * standard config updates per below
 * updated config https://just-the-docs.github.io/just-the-docs/docs/configuration/
+* Code at https://github.com/graveca/just/
+* Published to https://graveca.github.io/just/
+
 
 
 # just-the-docs-template
