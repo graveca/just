@@ -4,5 +4,22 @@ theme: just-the-docs
 
 url: https://graveca.github.io/just
 
+# Aux links for the upper right navigation
 aux_links:
   Template Repository: https://github.com/graveca/just
+  "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
+  BBC News: https://news.bbc.co.uk/ 
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+  
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+  
